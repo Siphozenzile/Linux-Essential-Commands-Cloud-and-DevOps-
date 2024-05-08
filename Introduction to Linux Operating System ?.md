@@ -1,1 +1,1 @@
-# What is Linux Operating Sysytem ? 
+# What is Linux ? 
